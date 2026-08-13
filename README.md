@@ -35,3 +35,8 @@ Prefix       : 24
 Gateway      : 192.168.2.1
 DNS 1        : 8.8.8.8
 DNS 2        : 1.1.1.1
+
+###🚀How to Use ──────────
+
+    Download the repository
+    Run Start-Setup.cmd as Administrator
